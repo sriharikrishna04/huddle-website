@@ -1,0 +1,75 @@
+body{
+    display: inline-block;
+    min-height: 900px;
+    height: 100%;
+  
+    width: 620px;
+    margin: 0px;
+}
+
+
+.main{
+    background-image:url("background.jpg");
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    display: inline-block;
+    height: 850px;
+    width: 1500px;
+    background-size: 3000px;
+
+}
+
+.huddle{
+    position:relative;
+    left: 80px;
+    right: 0px;
+    top: -20px;
+    color:white;
+}
+.comment{
+    position: relative;
+    left:15px;
+    top:90px;
+}
+
+.heading{
+    width:700px;
+    position:relative;
+    left:600px;;
+    top:-500px;
+    color:white;
+}
+
+.content{
+    width:890px;
+    position:relative;
+    left:600px;
+    top:-500px;
+    color: white;
+}
+
+.button{
+    position:relative;
+    top: -500px;
+    left:600px;
+    size: 1000px;
+    border-radius: 20px;
+}
+
+.register{
+    border-radius: 50px;
+    font-size: 25px;
+    color:violet;
+    background-color: white;
+}
+
+.register:hover{
+    background-color: violet;
+    color:white;
+}
+
+.icon{
+    position:relative;
+    top: -400px;
+    left:1300px;
+}
